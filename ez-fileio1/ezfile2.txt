@@ -1,0 +1,3 @@
+Writing to the local file!
+Yo I am writing to the file from ezfio2()!
+Yo I am writing to the file from ezfio2()!
